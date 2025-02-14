@@ -1,6 +1,6 @@
 ## 👋 Oi eu sou Hiago de Andrade Araújo, sou estudante de programação e tecnologia!!!
 
-- 👾 Atualmente trabalho com service desk, meu sonho é ser um desenvolvedor 
+- 👾 Atualmente trabalho como service desk, minha vontade é ser um desenvolvedor
 - 🧠 Estudante em Sistema da Informação pela faculdade Cotemig
 - 👨‍💻 Constantemente em busca de novos conhecimentos, principalmente em plataformas como a Udemy
 
