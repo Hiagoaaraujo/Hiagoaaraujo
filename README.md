@@ -5,8 +5,8 @@
 - 👨‍💻 Constantemente em busca de novos conhecimentos, principalmente em plataformas como a Udemy
 
 <div><!---->
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=hiagoaaraujo&show_icons=true&theme=dark" />
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagoaaraujo&layout=compact&theme=dark" />
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=hiagoaaraujo&show_icons=true&theme=dark" />
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagoaaraujo&layout=compact&theme=dark" />
 </div>
 
 <!--Linguagens utilizadas-->
