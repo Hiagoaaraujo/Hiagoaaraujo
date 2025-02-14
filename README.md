@@ -20,7 +20,7 @@
   <img align="center" alt="Hiago-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
   <!--<img align="center" alt="Hiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;-->
   <img align="center" alt="Hiago-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>&nbsp;
-  <img align="center" alt="Hiago-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>&nbsp;
+  <img align="center" alt="Hiago-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>&nbsp;
   <img align="center" alt="Hiago-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <!--<img align="center" alt="Hiago-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>&nbsp;-->
   <img align="right" alt="Hiago-Gif" height="90" width="90" src="https://img.itch.zone/aW1nLzEzMDE1NTM0LmdpZg==/original/QNTY4%2B.gif"/>
