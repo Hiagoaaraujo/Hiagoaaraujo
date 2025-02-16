@@ -2,6 +2,7 @@
 
 - 👾 Atualmente trabalho como service desk, minha vontade é ser um desenvolvedor
 - 🧠 Estudante em Sistema da Informação pela faculdade Cotemig
+- 🚀 Desenvolvedor em formação, focado em transformar ideias em código. Estudante de Sistemas de Informação, buscando sempre evolução e inovação. 
 - 👨‍💻 Constantemente em busca de novos conhecimentos, principalmente em plataformas como a Udemy
 
 <!--Skills-->
